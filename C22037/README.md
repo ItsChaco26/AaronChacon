@@ -25,6 +25,7 @@
    - [Search Logic](#search-logic)
 6. [Sales Reports](#sales-reports)
    - [Reports Implementation](#reports-implementation)
+7. [Demonstration](#project-demonstration)
 
 
 ## Description of the Project
@@ -445,3 +446,7 @@ public async Task<List<DailyReport>> GetDailySalesAsync(DateTime date)
     return dailySales;
 }
 ```
+
+## Project Demonstration
+
+[Watch the demonstration on YouTube](https://youtu.be/z8tUeHrQPFk)
