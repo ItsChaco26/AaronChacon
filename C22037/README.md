@@ -124,7 +124,7 @@ This project is a complete web store where users can buy products, select the de
 
 
 ### Payment Page Diagram
-![Payment Page Diagram](C22037/Images/pagpago.jpeg)
+![Payment Page Diagram](Images/pagpago.jpeg)
 
 ### SaleDB
 **Methods:**
